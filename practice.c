@@ -2,6 +2,8 @@
 
 int main () {
 	printf("Hello World !!");
+	printf("git tests");
+	printf("master working");
 
 	console.log("Hello World !!");
 
